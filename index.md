@@ -37,12 +37,14 @@ Please bear this in mind when performing analysis and data gathering. At no stag
 
 There are three topics that we would like to explore. These have been proposed by colleagues from Department for Work and Pensions, Ministry of Justice and Cabinet Office as topics that would aid their research. A full write up of the projects is here in Dropbox, and summaries are below:
 
-
--          Topic 1 (DWP): Investigating vacancies for jobs on social media
+'''
+           Topic 1 (DWP): Investigating vacancies for jobs on social media
            Aim: Gain insight into the types of jobs advertised and compare to existing official statistics
            Example areas for investigation: Types of jobs, Amounts, Where advertised and through whom, Skills etc
-           Potential approaches: Visualisation tool for jobcentre staff to be able to visualise types and areas advertised,     Spatial analysis, Natural Language Processing. For those who are less technical: Comparisons to existing data sources, research into prevalence of jobs being advertised on social media- can apply directly or are they re-directed to job site?
-
+           Potential approaches: Visualisation tool for jobcentre staff to be able to visualise types and areas advertised,
+           Spatial analysis, Natural Language Processing. For those who are less technical: Comparisons to existing data sources, research into prevalence of jobs being advertised on social media - can apply directly or are they re-directed to 
+           job site?
+'''
 
 
 
