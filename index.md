@@ -52,9 +52,15 @@ For the Cabinet Office strand data please click [here](https://www.dropbox.com/s
            
     Aim: 
            
-    Gain insight into the types of jobs advertised and compare to existing official statistics
-    Example areas for investigation: Types of jobs, Amounts, Where advertised and through 
-    whom, Skills etc
+    Gain insight into the types of jobs advertised and compare to existing 
+    official statistics
+    
+    Example areas for investigation: 
+    
+    Types of jobs, 
+    Amounts, 
+    Where advertised and through whom,
+    Skills etc
            
     Potential approaches: 
            
@@ -79,17 +85,20 @@ For the DWP Strand data please click [here](https://www.dropbox.com/sh/98ahbix8b
     This could provide additional insights to existing evidence base.
     
     Example areas for investigation: 
-    Types of justice problems discussed, Myths and misconceptions that could be clarified,
+    Types of justice problems discussed, 
+    Myths and misconceptions that could be clarified,
     What sources people seek advice from, 
     Problem resolution, 
     Motivations e.g. financial, principle
     
     Potential approaches: 
-    Machine learning, spatial analysis, Natural Language Processing, 
+    Machine learning, spatial analysis, 
+    Natural Language Processing, 
     Visualisation. 
     
     For those who are less technical: 
-    Design user journeys, research existing evidence of social media use to resolve problems, 
+    Design user journeys, research existing evidence of social media use
+    to resolve problems, 
     comparison to existing data sources
 
 
