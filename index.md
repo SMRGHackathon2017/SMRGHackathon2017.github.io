@@ -60,6 +60,6 @@ For the MoJ Strand data please click [here](https://www.dropbox.com/sh/vq0tyhkb3
 ### Support or Contact us
 Having trouble with anything? Please talk to one of the helpful people organizing the hackathon.
 
-You can also log in on the SMRG Hackathon [Slack](htpps://gsrhackathon.slack.com) .    
+You can also log in on the [SMRG Hackathon Slack](htpps://gsrhackathon.slack.com) .    
 
 Whatever it is, we’ll help you sort it out.
