@@ -44,7 +44,7 @@ A full write up of the projects is here in Dropbox, and summaries are below:
 Public engagement with government – opinions and views on government activity
 
 
-    #Aim: 
+    ## Aim: 
     
     Better understand dynamics and representativeness of comments to guide analysis of public opinion
     Example areas for investigation: Intensity and plurality (How many people engaged)? 
@@ -53,13 +53,13 @@ Public engagement with government – opinions and views on government activity
     Topics eliciting strongest engagement, 
     Is there a connection between mood and the original topic?
     
-    #Potential approaches: 
+    ## Potential approaches: 
     
     Building a model to explore a specific area, 
     building a visualisation tool,
     designing infographics. 
     
-    #For those who are less technical : 
+    ## For those who are less technical : 
     
     Content analysis, topic analysis etc
 
