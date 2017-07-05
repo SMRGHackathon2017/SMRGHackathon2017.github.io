@@ -53,7 +53,9 @@ For the DWP Strand data please click [here](https://www.dropbox.com/sh/98ahbix8b
 For the MoJ Strand data please click [here](https://www.dropbox.com/sh/vq0tyhkb3qsp1mt/AACxMyOgm6v8JS0tDpoUmlYKa?dl=0).
 
 
+### Careful with sharing!!!
 
+We want to promote the exploration of social media research within government across the professions, however we ask that you treat these topics with the same discretion as you would if they were being researched within your own department. Thus please do not tweet about findings or share your findings externally. Please be careful when using visualisation tools that may share data/ analysis in an open way.
 
 
 
