@@ -46,8 +46,12 @@ Public engagement with government – opinions and views on government activity
 
     ## Aim: 
     
-    Better understand dynamics and representativeness of comments to guide analysis of public opinion
-    Example areas for investigation: Intensity and plurality (How many people engaged)? 
+    Better understand dynamics and representativeness of comments 
+    to guide analysis of public opinion
+    
+    Example areas for investigation: 
+    
+    Intensity and plurality (How many people engaged)? 
     Is the conversation biased by certain groups?), 
     Gender and diversity, 
     Topics eliciting strongest engagement, 
