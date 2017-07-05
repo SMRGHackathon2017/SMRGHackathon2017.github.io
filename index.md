@@ -1,6 +1,6 @@
  ##                    Welcome to the SMRG Hackathon 2017
 
-![SMRG logo](//smrg.png)
+![SMRG logo](https://s12.postimg.org/rvcquqgql/smrg.png)
 
 
 ### Text Blurb
