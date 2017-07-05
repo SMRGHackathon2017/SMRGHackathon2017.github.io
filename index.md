@@ -40,35 +40,46 @@ for Work and Pensions,Ministry of Justice and Cabinet Office as topics that woul
 A full write up of the projects is here in Dropbox, and summaries are below:
 
 
-### Cabinet Office Strand
+### Cabinet Office Strand: Public engagement with government – opinions and views on government activity
+
+
+
+
+
+
+
+
+
+
+
 
 
 For the Cabinet Office strand data please click [here](https://www.dropbox.com/sh/01rzzniq3ocedq5/AADscQEQqDwe2ZKKVhJGgX_Na?dl=0).
 
 
-### DWP Data Strand:  Investigating vacancies for jobs on social media
+### DWP Strand:  Investigating vacancies for jobs on social media
 
            
            
-    Aim: 
+    **Aim:** 
            
     Gain insight into the types of jobs advertised and compare to existing 
     official statistics
     
-    Example areas for investigation: 
+    **Example areas for investigation: **
     
     Types of jobs, 
     Amounts, 
     Where advertised and through whom,
     Skills etc
            
-    Potential approaches: 
+    **Potential approaches: **
            
     Visualisation tool for jobcentre staff to be able to visualise types 
     and areas advertised,
     Spatial analysis, Natural Language Processing. 
            
-    For those who are less technical: 
+    **For those who are less technical: **
            
     Comparisons to existing data sources, 
     research into prevalence of jobs being advertised on social media.
@@ -79,7 +90,7 @@ For the Cabinet Office strand data please click [here](https://www.dropbox.com/s
 For the DWP Strand data please click [here](https://www.dropbox.com/sh/98ahbix8b71qexf/AACCQICIYyNmgVbTRTfbWPDLa?dl=0).
 
 
-### MoJ Data Strand:  Reported experience of the employment justice system.
+### MoJ Strand: Reported experience of the employment justice system.
 
     Aim: Understand how people resolve justice problems using social media. 
     This could provide additional insights to existing evidence base.
