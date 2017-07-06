@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center"> 
-<img src="https://s12.postimg.org/rvcquqgql/smrg.png">
+<img src="https://s11.postimg.org/vh5oyfp77/smrglogotransparent.png">
 </p>
 
 ### Text Blurb
