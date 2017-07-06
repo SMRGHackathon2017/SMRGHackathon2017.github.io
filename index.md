@@ -29,7 +29,7 @@ Please bear this in mind when performing analysis and data gathering. At no stag
 
 - The data/ethical considerations of the Social Media Research Group’s [guidance](https://www.dropbox.com/s/qohe9y6z7wlwh5e/GSR_Social_Media_Research_Guidance_-_Using_social_media_for_social_research.pdf?dl=0) 
 
-- ONS guidance on webscraping.  You have received this on a recent email. Not online since its not published yet.
+- ONS guidance on webscraping.  You have received this on a recent email. Not online since its not published yet.Please do not share this more widely
 
 - Please also see the Cabinet Office [Data Science Ethical Framework](https://data.blog.gov.uk/wp-content/uploads/sites/164/2015/12/Data-science-ethics-short-for-blog-1.pdf)
 
