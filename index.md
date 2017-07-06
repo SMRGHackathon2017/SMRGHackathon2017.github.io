@@ -135,11 +135,13 @@ Reported experience of the employment justice system.
 
 For the MoJ Strand data please click [here](https://www.dropbox.com/sh/vq0tyhkb3qsp1mt/AACxMyOgm6v8JS0tDpoUmlYKa?dl=0).
 
+For some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data
 
-# Useful Data Science cheatsheets
+
+### Useful Data Science cheatsheets
 
 We got you covered:
-https://github.com/SMRGHackathon2017/DataScienceCheatSheets
+[here](https://github.com/SMRGHackathon2017/DataScienceCheatSheets)
 
 
 ### Careful with sharing!!!
