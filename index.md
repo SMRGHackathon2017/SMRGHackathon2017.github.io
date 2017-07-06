@@ -18,7 +18,7 @@
 | 11:00 – 17:30 | Form teams and start hack  (lunch at 13:00)|
 | 17:30 – 17:40 | Stop hacking and prepare for presentations  |
 | 17:40 – 18:40 | Project presentations   |
-| 18:40 – 18:50 | Judging !!! and tidying up   |
+| 18:40 – 18:50 | Judging best submissions!!! and tidying up   |
 | 18:50 – 19:00 | Prize giving and close   |
 
 <br>
