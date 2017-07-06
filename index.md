@@ -26,9 +26,12 @@
 (the last shuttle bus departs Microsoft for Reading station at 19:22)
 
 <br><br>
+
 ### Hackathon files
 
-Hackathon specific files will be availiable at 08:00 pm the day 
+<br>
+
+Hackathon specific files/information will be availiable at 08:00 pm the day 
 
 
 <br><br>
