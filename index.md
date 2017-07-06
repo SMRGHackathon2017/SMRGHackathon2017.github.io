@@ -1,5 +1,5 @@
 <p align="center">
-###  Welcome to the SMRG Hackathon 2017
+<h3>  Welcome to the SMRG Hackathon 2017 </h3>
 </p>
 
 
