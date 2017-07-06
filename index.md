@@ -73,9 +73,7 @@ Public engagement with government – opinions and views on government activity
 
 - For the Cabinet Office strand data please click [here](https://www.dropbox.com/sh/01rzzniq3ocedq5/AADscQEQqDwe2ZKKVhJGgX_Na?dl=0).
 
-![](https://s17.postimg.org/xd6wwogsv/ph3333oto.jpg)
-
-- Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
+![](https://s17.postimg.org/xd6wwogsv/ph3333oto.jpg) Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
 ### DWP Strand:  
 Investigating vacancies for jobs on social media
@@ -110,9 +108,7 @@ Investigating vacancies for jobs on social media
 
 - For the DWP Strand data please click [here](https://www.dropbox.com/sh/98ahbix8b71qexf/AACCQICIYyNmgVbTRTfbWPDLa?dl=0).
 
-![](https://s17.postimg.org/xd6wwogsv/ph3333oto.jpg)
-
-- Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
+![](https://s17.postimg.org/xd6wwogsv/ph3333oto.jpg) Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
 ### MoJ Strand: 
 Reported experience of the employment justice system.
@@ -145,9 +141,7 @@ Reported experience of the employment justice system.
 
 - For the MoJ Strand data please click [here](https://www.dropbox.com/sh/vq0tyhkb3qsp1mt/AACxMyOgm6v8JS0tDpoUmlYKa?dl=0).
 
-![](https://s17.postimg.org/xd6wwogsv/ph3333oto.jpg)
-
-- Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
+![](https://s17.postimg.org/xd6wwogsv/ph3333oto.jpg) Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
 
 ### Useful Data Science cheatsheets
