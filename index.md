@@ -159,6 +159,6 @@ We want to promote the exploration of social media research within government ac
 ### Support or Contact us
 Having trouble with anything? Please talk to one of the helpful people organizing the hackathon.
 
-You can also log in on the [SMRG Hackathon channel on the Goverment Data Science Slack](https://govdatascience.slack.com/messages/C643A34LB/) [slackicon](https://postimg.org/image/7jj4djf3h/).    
+You can also log in on the [SMRG Hackathon channel on the Goverment Data Science Slack](https://govdatascience.slack.com/messages/C643A34LB/) ![](https://s14.postimg.org/bsnufpicx/slack-icon-10645.png).    
 
 Whatever it is, we’ll help you sort it out.
