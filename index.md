@@ -14,7 +14,7 @@ blah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahbla
 
 
 
-
+<br><br>
 ### Ethics
 
 
@@ -33,7 +33,7 @@ Please bear this in mind when performing analysis and data gathering. At no stag
 - Please also see the Cabinet Office [Data Science Ethical Framework](https://data.blog.gov.uk/wp-content/uploads/sites/164/2015/12/Data-science-ethics-short-for-blog-1.pdf)
 
 
-
+<br><br>
 ### Topics
 
 There are three topics that we would like to explore. These have been proposed by colleagues from Department 
@@ -41,6 +41,7 @@ for Work and Pensions,Ministry of Justice and Cabinet Office as topics that woul
 A full write up of the projects is here in Dropbox, and summaries are below:
 
 
+<br><br>
 ### Cabinet Office Strand: 
 Public engagement with government – opinions and views on government activity
 
@@ -74,6 +75,8 @@ Public engagement with government – opinions and views on government activity
 ![](https://s1.postimg.org/4jvl1bdfz/149930302128993.gif) For the Cabinet Office strand data please click [here](https://www.dropbox.com/sh/01rzzniq3ocedq5/AADscQEQqDwe2ZKKVhJGgX_Na?dl=0).
 
 ![](https://s22.postimg.org/rk5hn3735/149930302128993.png) Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
+
+<br><br>
 
 ### DWP Strand:  
 Investigating vacancies for jobs on social media
@@ -110,6 +113,8 @@ Investigating vacancies for jobs on social media
 
 ![](https://s22.postimg.org/rk5hn3735/149930302128993.png) Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
+<br><br>
+
 ### MoJ Strand: 
 Reported experience of the employment justice system.
 
@@ -144,17 +149,21 @@ Reported experience of the employment justice system.
 ![](https://s22.postimg.org/rk5hn3735/149930302128993.png) Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
 
+<br><br>
+
 ### Useful Data Science cheatsheets
 
 We got you covered:
 [here](https://github.com/SMRGHackathon2017/DataScienceCheatSheets)
 
+<br><br>
 
 ### Careful with sharing!!!
 
 We want to promote the exploration of social media research within government across the professions, however we ask that you treat these topics with the same discretion as you would if they were being researched within your own department. Thus please do not tweet about findings or share your findings externally. Please be careful when using visualisation tools that may share data/ analysis in an open way.
 
 
+<br><br>
 
 ### Support or Contact us
 Having trouble with anything? Please talk to one of the helpful people organizing the hackathon.
