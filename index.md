@@ -14,6 +14,7 @@ blah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahbla
 
 
 <br><br>
+
 ### Ethics
 
 <br><br>
@@ -32,6 +33,7 @@ Please bear this in mind when performing analysis and data gathering. At no stag
 
 
 <br><br>
+
 ### Topics
 <br><br>
 There are three topics that we would like to explore. These have been proposed by colleagues from Department 
@@ -40,6 +42,7 @@ A full write up of the projects is here in Dropbox, and summaries are below:
 
 
 <br><br>
+
 ### Cabinet Office Strand: 
 Public engagement with government – opinions and views on government activity
 <br><br>
@@ -78,6 +81,7 @@ Public engagement with government – opinions and views on government activity
 
 ### DWP Strand:  
 Investigating vacancies for jobs on social media
+
 <br><br>
            
            
@@ -115,7 +119,9 @@ Investigating vacancies for jobs on social media
 
 ### MoJ Strand: 
 Reported experience of the employment justice system.
+
 <br><br>
+
     # Aim: 
     
     Understand how people resolve justice problems using social media. 
