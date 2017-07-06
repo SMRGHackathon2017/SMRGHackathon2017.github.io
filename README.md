@@ -2,7 +2,7 @@
 
 Static page for the Social Media Research Group Hackathon 
 
-to all the SMRG reposiories please click [here](https://github.com/SMRGHackathon2017)
+to see all the SMRG repositories please click [here](https://github.com/SMRGHackathon2017)
 
 
 
