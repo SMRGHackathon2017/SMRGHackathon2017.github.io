@@ -9,3 +9,6 @@ title:               S M R G Hackathon 2017
 
 github:
 repo: https://github.com/SMRGHackathon2017
+
+
+plugins:     ./_plugins
