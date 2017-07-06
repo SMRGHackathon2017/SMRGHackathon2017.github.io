@@ -7,8 +7,7 @@
 </p>
 
 ### Text Blurb
-
-
+<br><br>
 
 blah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblah
 
@@ -17,8 +16,7 @@ blah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahblah-deblahbla
 <br><br>
 ### Ethics
 
-
-
+<br><br>
 
 We’re working on open data at this hackathon, and we love open data. However, we also need to recognise that we’re still at work as Civil Servants, and so need to reflect this in the way we handle this data, the analysis we carry out, and the way we talk about the findings. 
 
@@ -35,7 +33,7 @@ Please bear this in mind when performing analysis and data gathering. At no stag
 
 <br><br>
 ### Topics
-
+<br><br>
 There are three topics that we would like to explore. These have been proposed by colleagues from Department 
 for Work and Pensions,Ministry of Justice and Cabinet Office as topics that would aid their research. 
 A full write up of the projects is here in Dropbox, and summaries are below:
@@ -44,7 +42,7 @@ A full write up of the projects is here in Dropbox, and summaries are below:
 <br><br>
 ### Cabinet Office Strand: 
 Public engagement with government – opinions and views on government activity
-
+<br><br>
 
     # Aim: 
     
@@ -80,7 +78,7 @@ Public engagement with government – opinions and views on government activity
 
 ### DWP Strand:  
 Investigating vacancies for jobs on social media
-
+<br><br>
            
            
     # Aim:
@@ -117,7 +115,7 @@ Investigating vacancies for jobs on social media
 
 ### MoJ Strand: 
 Reported experience of the employment justice system.
-
+<br><br>
     # Aim: 
     
     Understand how people resolve justice problems using social media. 
