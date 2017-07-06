@@ -71,9 +71,9 @@ Public engagement with government – opinions and views on government activity
 
 
 
-For the Cabinet Office strand data please click [here](https://www.dropbox.com/sh/01rzzniq3ocedq5/AADscQEQqDwe2ZKKVhJGgX_Na?dl=0).
+- For the Cabinet Office strand data please click [here](https://www.dropbox.com/sh/01rzzniq3ocedq5/AADscQEQqDwe2ZKKVhJGgX_Na?dl=0).
 
-Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
+- Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
 ### DWP Strand:  
 Investigating vacancies for jobs on social media
@@ -106,9 +106,9 @@ Investigating vacancies for jobs on social media
 
 
 
-For the DWP Strand data please click [here](https://www.dropbox.com/sh/98ahbix8b71qexf/AACCQICIYyNmgVbTRTfbWPDLa?dl=0).
+- For the DWP Strand data please click [here](https://www.dropbox.com/sh/98ahbix8b71qexf/AACCQICIYyNmgVbTRTfbWPDLa?dl=0).
 
-Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
+- Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
 ### MoJ Strand: 
 Reported experience of the employment justice system.
@@ -139,9 +139,9 @@ Reported experience of the employment justice system.
     comparison to existing data sources
 
 
-For the MoJ Strand data please click [here](https://www.dropbox.com/sh/vq0tyhkb3qsp1mt/AACxMyOgm6v8JS0tDpoUmlYKa?dl=0).
+- For the MoJ Strand data please click [here](https://www.dropbox.com/sh/vq0tyhkb3qsp1mt/AACxMyOgm6v8JS0tDpoUmlYKa?dl=0).
 
-Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
+- Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
 
 ### Useful Data Science cheatsheets
@@ -159,6 +159,6 @@ We want to promote the exploration of social media research within government ac
 ### Support or Contact us
 Having trouble with anything? Please talk to one of the helpful people organizing the hackathon.
 
-You can also log in on the [SMRG Hackathon channel on the Goverment Data Science Slack](https://govdatascience.slack.com/messages/C643A34LB/) .    
+You can also log in on the [SMRG Hackathon channel on the Goverment Data Science Slack](https://govdatascience.slack.com/messages/C643A34LB/) [slack.icon](https://postimg.org/image/7jj4djf3h/).    
 
 Whatever it is, we’ll help you sort it out.
