@@ -6,6 +6,6 @@ to all the SMRG reposiories please click [here](https://github.com/SMRGHackathon
 
 
 
-<sub>created with github flavored markdown /sub> 
+<sub>created with github flavored markdown </sub> 
 
 
