@@ -1,7 +1,8 @@
- ##                    Welcome to the SMRG Hackathon 2017
+###  Welcome to the SMRG Hackathon 2017
 
-![SMRG logo](https://s12.postimg.org/rvcquqgql/smrg.png)
-
+<p align="center"> 
+![](https://s12.postimg.org/rvcquqgql/smrg.png)
+</p>
 
 ### Text Blurb
 
