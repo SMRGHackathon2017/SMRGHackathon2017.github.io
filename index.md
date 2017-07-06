@@ -45,12 +45,12 @@ A full write up of the projects is here in Dropbox, and summaries are below:
 Public engagement with government – opinions and views on government activity
 
 
-    ## Aim: 
+    # Aim: 
     
     Better understand dynamics and representativeness of comments 
     to guide analysis of public opinion
     
-    Example areas for investigation: 
+    # Example areas for investigation: 
     
     Intensity and plurality (How many people engaged)? 
     Is the conversation biased by certain groups?), 
@@ -58,13 +58,13 @@ Public engagement with government – opinions and views on government activity
     Topics eliciting strongest engagement, 
     Is there a connection between mood and the original topic?
     
-    ## Potential approaches: 
+    # Potential approaches: 
     
     Building a model to explore a specific area, 
     building a visualisation tool,
     designing infographics. 
     
-    ## For those who are less technical : 
+    # For those who are less technical : 
     
     Content analysis, topic analysis etc
 
@@ -73,31 +73,32 @@ Public engagement with government – opinions and views on government activity
 
 For the Cabinet Office strand data please click [here](https://www.dropbox.com/sh/01rzzniq3ocedq5/AADscQEQqDwe2ZKKVhJGgX_Na?dl=0).
 
+Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
 ### DWP Strand:  
 Investigating vacancies for jobs on social media
 
            
            
-    #Aim:
+    # Aim:
            
     Gain insight into the types of jobs advertised and compare to existing 
     official statistics
     
-    #Example areas for investigation: 
+    # Example areas for investigation: 
     
     Types of jobs, 
     Amounts, 
     Where advertised and through whom,
     Skills etc
            
-    #Potential approaches: 
+    # Potential approaches: 
            
     Visualisation tool for jobcentre staff to be able to visualise types 
     and areas advertised,
     Spatial analysis, Natural Language Processing. 
            
-    #For those who are less technical: 
+    # For those who are less technical: 
            
     Comparisons to existing data sources, 
     research into prevalence of jobs being advertised on social media.
@@ -107,27 +108,32 @@ Investigating vacancies for jobs on social media
 
 For the DWP Strand data please click [here](https://www.dropbox.com/sh/98ahbix8b71qexf/AACCQICIYyNmgVbTRTfbWPDLa?dl=0).
 
+Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
 ### MoJ Strand: 
 Reported experience of the employment justice system.
 
-    #Aim: 
+    # Aim: 
+    
     Understand how people resolve justice problems using social media. 
     This could provide additional insights to existing evidence base.
     
-    #Example areas for investigation: 
+    # Example areas for investigation: 
+    
     Types of justice problems discussed, 
     Myths and misconceptions that could be clarified,
     What sources people seek advice from, 
     Problem resolution, 
     Motivations e.g. financial, principle
     
-    #Potential approaches: 
+    # Potential approaches: 
+    
     Machine learning, spatial analysis, 
     Natural Language Processing, 
     Visualisation. 
     
-    #For those who are less technical: 
+    # For those who are less technical: 
+    
     Design user journeys, research existing evidence of social media use
     to resolve problems, 
     comparison to existing data sources
@@ -135,7 +141,7 @@ Reported experience of the employment justice system.
 
 For the MoJ Strand data please click [here](https://www.dropbox.com/sh/vq0tyhkb3qsp1mt/AACxMyOgm6v8JS0tDpoUmlYKa?dl=0).
 
-For some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data
+Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
 
 ### Useful Data Science cheatsheets
