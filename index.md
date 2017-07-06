@@ -13,6 +13,12 @@ It’s at Microsoft’s Reading offices.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9943.329848539057!2d-0.9259474!3d51.4612324!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5c01cd78b9c6bf56!2sMicrosoft+UK+Headquarters%2C+Reading!5e0!3m2!1sen!2suk!4v1499334566712" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+<br>
+
+Please arrive at the reception of Building 3 and you will be escorted to the location of the Hackathon in Building 4
+
+<br><br>
+
 
 ### Text Blurb
 <br><br>
