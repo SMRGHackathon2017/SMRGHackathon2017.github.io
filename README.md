@@ -2,6 +2,11 @@
 
 Static page for the Social Media Research Group Hackathon 
 
-created with github flavored markdown 
+to all the SMRG reposiories please click [here](https://github.com/SMRGHackathon2017)
+
+
+
+
+     created with github flavored markdown 
 
 
