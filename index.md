@@ -31,7 +31,7 @@
 
 <br>
 
-Hackathon specific files/information will be availiable at 08:00 pm the day 
+Hackathon specific files/information will be availiable here at 08:00 pm on the day 
 
 
 <br><br>
