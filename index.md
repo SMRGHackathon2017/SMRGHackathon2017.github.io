@@ -38,7 +38,7 @@ Please bear this in mind when performing analysis and data gathering. At no stag
 <br><br>
 There are three topics that we would like to explore. These have been proposed by colleagues from Department 
 for Work and Pensions,Ministry of Justice and Cabinet Office as topics that would aid their research. 
-A full write up of the projects is here in Dropbox, and summaries are below:
+A full write up of the projects is [here](https://www.dropbox.com/s/93mmiijkf7xn2d0/Hackathon%20Topic%20Overviews.DOCX?dl=0), and summaries are below:
 
 
 <br><br>
