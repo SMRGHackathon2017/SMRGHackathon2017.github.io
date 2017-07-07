@@ -15,7 +15,8 @@
 
  <p align="center">  (in a zipped format if possible) </p>
  
-![](https://s22.postimg.org/671f5k0hp/icon1n.png) [here](https://www.dropbox.com/request/He68rmrcEPFhDznkNM4m) 
+[![Foo](https://s22.postimg.org/671f5k0hp/icon1n.png)](https://www.dropbox.com/request/He68rmrcEPFhDznkNM4m) 
+
 
 
  
