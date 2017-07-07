@@ -8,9 +8,14 @@
 
 
 
-## DROPBOX FOLDER FOR ZIPPED PROJECTS
 
-[here](https://www.dropbox.com/request/He68rmrcEPFhDznkNM4m)
+<p align="center">  <h3> DROPBOX FOLDER FOR PROJECTS </h3></p>
+
+please upload your end-product project code
+
+ (in a zipped format if possible)
+
+<p align="center">  [here](https://www.dropbox.com/request/He68rmrcEPFhDznkNM4m) </p>
 
 
 ### Why a Hackathon?
