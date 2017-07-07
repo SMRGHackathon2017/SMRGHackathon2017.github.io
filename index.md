@@ -11,10 +11,14 @@
 
 ### DROPBOX FOLDER FOR PROJECTS 
 
-please upload your end-product project code 
+please upload your end-product presentations/code/anything else 
 
   (in a zipped format if possible) 
  
+ 
+ Please be aware thatyou need to name the submissions sensibly 
+ 
+ inlcuding at least either DWP / CO / MoJ in the filename
  
  
  [![Foo](https://s22.postimg.org/671f5k0hp/icon1n.png)](https://www.dropbox.com/request/He68rmrcEPFhDznkNM4m) 
