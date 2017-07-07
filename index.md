@@ -6,6 +6,10 @@
 <img src="https://s11.postimg.org/vh5oyfp77/smrglogotransparent.png">
 </p>
 
+<br><br>
+
+# Thank you for taking part in the SMRGHackathon2017
+
 ![](https://s12.postimg.org/w4ve0lkfx/OPENHackathon.jpg)
 
 
