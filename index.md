@@ -11,9 +11,9 @@
 
 ### DROPBOX FOLDER FOR PROJECTS 
 
-<p align="center">  please upload your end-product project code </p>
+please upload your end-product project code 
 
- <p align="center">  (in a zipped format if possible) </p>
+  (in a zipped format if possible) 
  
  
  
