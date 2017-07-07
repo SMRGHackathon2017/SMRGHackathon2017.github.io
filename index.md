@@ -137,6 +137,10 @@ Investigating vacancies for jobs on social media
 
 ![](https://s22.postimg.org/rk5hn3735/149930302128993.png) Some helpful [code](https://github.com/SMRGHackathon2017/Twitter-Processing) that was used for gathering data for this strand.
 
+![](https://s22.postimg.org/rk5hn3735/149930302128993.png) Some helpful [code](https://github.com/SMRGHackathon2017/LMI4ALL_API_ACCESS/) and info for the LMI 4 ALL API
+and how you can get current vacancy data through a simple REST 
+request (basically by forming a URL)
+
 <br><br>
 
 ### MoJ Strand: 
