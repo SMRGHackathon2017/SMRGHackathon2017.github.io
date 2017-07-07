@@ -6,7 +6,7 @@
 <img src="https://s11.postimg.org/vh5oyfp77/smrglogotransparent.png">
 </p>
 
-
+![](https://s12.postimg.org/w4ve0lkfx/OPENHackathon.jpg)
 
 
 ### DROPBOX FOLDER FOR PROJECTS 
