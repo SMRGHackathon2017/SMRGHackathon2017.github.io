@@ -6,6 +6,13 @@
 <img src="https://s11.postimg.org/vh5oyfp77/smrglogotransparent.png">
 </p>
 
+
+
+## DROPBOX FOLDER FOR ZIPPED PROJECTS
+
+[here](https://www.dropbox.com/request/He68rmrcEPFhDznkNM4m)
+
+
 ### Why a Hackathon?
 <br><br>
 
