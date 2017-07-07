@@ -15,7 +15,9 @@ please upload your end-product project code
 
  (in a zipped format if possible)
 
- ![](https://s22.postimg.org/a3er1jlhd/icon1n.png) [here](https://www.dropbox.com/request/He68rmrcEPFhDznkNM4m) 
+ 
+
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 
 ### Why a Hackathon?
