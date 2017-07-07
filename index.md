@@ -16,9 +16,9 @@
  <p align="center">  (in a zipped format if possible) </p>
  
  
- <p align="center"> 
+ 
  [![Foo](https://s22.postimg.org/671f5k0hp/icon1n.png)](https://www.dropbox.com/request/He68rmrcEPFhDznkNM4m) 
- </p>
+
 
  
 
