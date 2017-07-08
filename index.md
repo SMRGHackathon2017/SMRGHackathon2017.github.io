@@ -8,7 +8,7 @@
 
 <br><br>
 
-# Thank you for taking part in the SMRGHackathon2017
+###  Thank you for taking part in the SMRGHackathon2017
 
 ![](https://s12.postimg.org/w4ve0lkfx/OPENHackathon.jpg)
 
