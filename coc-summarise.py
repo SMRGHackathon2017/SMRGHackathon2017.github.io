@@ -96,22 +96,6 @@ def get_time_bin(relative_time):
 
     return 25
 
-def summarise_comments(dirname, story_name, story_time):
-
-    files = os.listdir(dirname)
-    
-    comments = []
-
-    for f in files:
-
-        if '_comments.json' in f:
-
-            comments_path = '{0}{1}{2}'.format(dirname, os.path.sep, f)            
-            comment = summarise_comment(comments_path, story_name, story_time)
-            comments += comment
-
-    return summaries
-
 
 def summarise_articles(dirname, story_name):
 
